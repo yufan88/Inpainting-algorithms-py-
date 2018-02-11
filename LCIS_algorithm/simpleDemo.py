@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as mplot
 import matplotlib.image as mpimg
-from lcis import lcis, bandmatrix, idct2, dct2
+from lcis import lcis, bandmatrix
 
 if __name__ == '__main__':
 
